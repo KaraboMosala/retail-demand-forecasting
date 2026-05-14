@@ -236,11 +236,8 @@ matplotlib>=3.7
 
 ## Author
 
-**Kgomotso Mosala**  
-Data Analyst → Retail Data Scientist  
-Pepkor Holdings · Cape Town, South Africa  
-
-*This project is part of a structured learning path to become a world-class retail data scientist. Built from scratch in VS Code using real competition data.*
+**Karabo Mosala**  
+Data Scientist  
 
 ---
 
