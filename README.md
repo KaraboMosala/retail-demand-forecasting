@@ -237,7 +237,7 @@ matplotlib>=3.7
 ## Author
 
 **Karabo Mosala**  
-Data Scientist  
+ 
 
 ---
 
