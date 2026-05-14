@@ -198,9 +198,7 @@ Retail forecasting errors are rarely symmetric. A stockout (under-forecast) cost
 retail-demand-forecasting/
 │
 ├── notebooks/
-│   ├── 01_exploration.ipynb       # Data loading, health check, EDA
-│   ├── 02_feature_engineering.ipynb  # Merging, cleaning, feature creation
-│   └── 03_modelling.ipynb         # LightGBM training and evaluation
+│   ├── 01_exploration.ipynb       # Data loading, health check, EDA; # Merging, cleaning, feature creation; # LightGBM training and evaluation
 │
 ├── charts/
 │   ├── sales_vs_oil.png           # Daily sales vs oil price
